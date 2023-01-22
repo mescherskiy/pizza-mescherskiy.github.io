@@ -202,7 +202,7 @@ window.onload = () => {
 
     createCard(
         "Пицца Кантри",
-        "margarita",
+        "country",
         ["Лук", "бекон", "ветчина", "грибы", "моцарелла", "огурцы маринованные", "соус чесночный"],
         "./img/country.jpg",
         smallSizePrices.country
